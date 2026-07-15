@@ -122,10 +122,4 @@ intentional, realistic patterns rather than random noise:
   power buyers) with recency bias, so RFM segmentation surfaces genuine signal.
 - Monthly order density is skewed to create a festive-season (Oct–Dec) revenue bump.
 
-## Resume Bullet
 
-> Analyzed 15K+ e-commerce orders in Python (Pandas/Matplotlib/Seaborn),
-> identifying Beauty and Apparel as the highest-margin categories (44% and
-> 39% vs. a 18% blended average) and using RFM segmentation to show a 34%
-> high-value customer segment drives 72% of revenue — insights directly
-> applicable to pricing and retention strategy.
