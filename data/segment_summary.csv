@@ -1,0 +1,6 @@
+segment,customers,revenue,orders,pct_customers,pct_revenue,pct_orders
+High-Value,678,69542107.37,10594,33.9,72.2,70.1
+At-Risk,583,18207908.6,2843,29.2,18.9,18.8
+Regular,204,4944388.72,1134,10.2,5.1,7.5
+Churned,417,2813347.54,417,20.8,2.9,2.8
+New,118,760031.33,118,5.9,0.8,0.8
